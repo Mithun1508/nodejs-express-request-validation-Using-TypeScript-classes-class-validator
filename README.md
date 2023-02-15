@@ -1,22 +1,39 @@
-## Description of the project
 
-Read the full article: https://www.mohammadfaisal.dev/blog/error-handling-nodejs-express
-
-Today we will learn how we can handle errors in a ExpressJS application. There are several types of errors that can happen in an application.
+ learn how we can handle errors in a ExpressJS application. There are several types of errors that can happen in an application.
 
 - Application Error
 - Validation Error
 - Runtime Error
 - Database Error
 
-We will see how we can easily
+## Topics covered:
+
+* Creating a ExpressJS + Typescript Boilerplate
+
+* How to setup Linter and Formatter for NodeJS
+
+* How to handle multiple environments in NodeJS
+
+* Error Handling in NodeJS
+
+* Request Validation in NodeJS
+
+* Using Docker Professionally with NodeJS
+
+* Using Docker for Local Development in NodeJS
+
+* Logging in NodeJS
+
+* Kubernetes with NodeJS
+
+* Security in NodeJS
 
 ### Get a basic express application
 
 Run the following command to get a basic express application built with typescript.
 
 ```sh
-
+  git clone https://github.com/Mithun1508/nodejs-express-request-validation-Using-TypeScript-classes-class-validator
 ```
 
 ### Handle not found url errors
